@@ -1,3 +1,5 @@
 # 게임
 
-INFP
+## MBTI
+
+- INFP
